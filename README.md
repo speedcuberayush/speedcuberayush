@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @speedcuberayush they call me the React GOD
+- 👋 Hi, I’m @speedcuberayush, they call me the React GOD
 - 👀 I'm interested in creating beautiful and functional digital experiences through design and development.
 - 🌱 I'm currently learning and expanding my skills in React development to enhance my proficiency in creating dynamic and interactive web applications.
 - 💞️ I'm looking to collaborate on projects that involve both design and development aspects, where I can contribute my expertise in both areas to create impactful and user-friendly solutions
