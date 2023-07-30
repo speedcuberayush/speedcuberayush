@@ -4,7 +4,7 @@
 - 💞️ I'm looking to bulid on projects that involve both design and development aspects, where I can contribute my expertise in both areas to create impactful and user-friendly solutions
 - 📫 My username is the same everywhere. You can reach me through my email address or LinkedIn profile. Feel free to connect and discuss potential collaborations or projects.
 - 🏅 As an athlete, I am dedicated to my training and strive for continuous improvement, pushing my physical and mental limits to achieve my goals and reach new heights in my sport.
-- 
+
 <!---
 speedcuberayush/speedcuberayush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
