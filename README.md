@@ -9,7 +9,7 @@
 <div align="center">
     👋 Hi, I’m @speedcuberayush, they call me the React GOD <br/>
     🌱 I’m currently learning **Docker, Supabase, AWS** <br/>
-    💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/speedcuberayush/speedcuberayush/issues)** <br/>
+    💬 Ask me about **Node.js, React, Firebase... or anything <br/>
     ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs <br/>
 </div>
 
