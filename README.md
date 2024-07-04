@@ -7,10 +7,11 @@
 <br/>
 
 <div align="center">
-    👋 Hi, I’m @speedcuberayush, they call me the React GOD <br/>
-    🌱 I’m currently learning **Docker, Supabase, AWS** <br/>
-    💬 Ask me about **Node.js, React, Firebase... or anything <br/>
-    ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs <br/>
+    🌟 Diverse individual with a wide range of interests, committed to continuous self-improvement.<br/>
+💻 Forward-thinking web developer specializing in Next.js and the MERN stack.<br/>
+🎨 Blends creativity with functionality to create immersive digital experiences.<br/>
+🐍 Proficient in Python for web development, automation, and machine learning.<br/>
+💪 Passionate about achieving excellence in design, development, and personal challenges.<br/>
 </div>
 
 <div align="center"> 
