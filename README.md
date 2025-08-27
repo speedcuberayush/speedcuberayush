@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Mishra!;They+call+me+the+React+GOD" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Ayush+Mishra!;They+call+me+the+React+GOD" />
 </h1>
 
 <h3 align="center">🌟 I am a diverse individual with many interests. Currently, I am on a continuous learning journey, striving to improve myself ✨</h3>
