@@ -1,58 +1,65 @@
+<!-- Animated Header -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Ayush+Mishra!;They+call+me+the+React+GOD" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F79E&center=true&vCenter=true&width=600&lines=Hey+there+👋;I'm+Ayush+Mishra!;React+Wizard+⚛️;Full+Stack+Explorer+🌍;Always+Learning+🚀" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🌟 I am a diverse individual with many interests. Currently, I am on a continuous learning journey, striving to improve myself ✨</h3>
+<!-- Cool Tagline -->
+<h3 align="center">
+  🚀 Crafting Modern Web Experiences with <span style="color:#61DAFB;">React</span> & <span style="color:#00DC82;">Next.js</span> ✨
+</h3>
 
-<br/>
+---
 
-<div align="center">
-    🌟 Diverse individual with a wide range of interests, committed to continuous self-improvement.<br/>
-💻 Forward-thinking web developer specializing in Next.js and the MERN stack.<br/>
-🎨 Blends creativity with functionality to create immersive digital experiences.<br/>
-🐍 Proficient in Python for web development, automation, and machine learning.<br/>
-💪 Passionate about achieving excellence in design, development, and personal challenges.<br/>
-</div>
+<!-- About Section with Emojis -->
+## 👨‍💻 About Me  
+- 🌟 Full-stack developer passionate about building **beautiful & scalable apps**  
+- ⚡ Tech playground: **React • Next.js • MERN • Python • AI/ML**  
+- 🎨 Love blending **creativity + functionality**  
+- 🌍 Explorer at heart – always learning something new  
+- 🎯 Goal: To be among the best **React & Next.js developers** out there  
 
-<div align="center"> 
-  <a href="mailto:msdakm3334@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/speedcuberayush" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://speedcuberayush.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- Change logo to something like portfolio icon -->
-  </a>
-</div>
+---
 
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br/>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 Contributions 🐍</h2>
-  <p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+<!-- Animated Skills -->
+<h2 align="center">⚒️ Tech Arsenal ⚒️</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,nodejs,express,mongodb,python,java,c,git,github,vscode,figma" />
 </p>
-</div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- Animated GitHub Stats -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=speedcuberayush&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=speedcuberayush&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=speedcuberayush&theme=react-dark&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=speedcuberayush&theme=react&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=speedcuberayush&theme=react&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=speedcuberayush&theme=react&hide_border=false&layout=compact" />
-</div>
+---
 
-<hr/>
+<!-- Snake Contribution Animation -->
+<h2 align="center">🐍 My Contribution Snake 🐍</h2>
+<p align="center">
+  <img src="https://github.com/speedcuberayush/speedcuberayush/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+<!-- Socials -->
+<h2 align="center">🌐 Connect with Me 🌐</h2>
+<p align="center">
+  <a href="mailto:msdakm3334@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/speedcuberayush"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://speedcuberayush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  ✨ Built with ❤️ by <b>Ayush Mishra</b> | React GOD ⚛️
+</p>
