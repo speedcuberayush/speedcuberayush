@@ -1,69 +1,54 @@
-<!-- Fancy Animated Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&height=100&lines=Hey+Everyone!+👋;I'm+Ayush+Mishra;The+React+Wizard+⚛️;Full+Stack+Developer+💻;AI%2FML+Explorer+🤖;Always+Learning+🚀" />
-</div>
+<!-- Neon Glitch Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F72585&background=000000&center=true&vCenter=true&width=900&lines=⚡+Ayush+Mishra+⚡;The+React+Wizard+⚛️;Full+Stack+Developer+🚀;AI%2FML+Explorer+🤖" alt="Typing Animation" />
+</h1>
 
-<!-- Cool Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:FF00FF&height=120&section=header&text=Welcome!&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+<!-- Floating Tech Icons -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60px" style="margin:10px; animation: float 3s ease-in-out infinite;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60px" style="margin:10px; animation: float 4s ease-in-out infinite;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60px" style="margin:10px; animation: float 5s ease-in-out infinite;">
+</p>
 
 ---
 
 ## 🌀 About Me  
-🔥 React wizard + full-stack developer  
-🎨 Mixing creativity + functionality for **killer UI/UX**  
-🐍 Python enthusiast diving into **AI, ML, automation**  
-🌎 Love to explore, build, and **push limits**  
-💡 Motto: *Code • Create • Conquer*  
+🎨 Creative + Functional = **Immersive UI/UX**  
+⚛️ **React & Next.js wizardry**  
+🤖 Python + ML enthusiast  
+🌍 Explorer at heart • Always learning • Always shipping  
 
 ---
 
-## ⚡ Tech Arsenal ⚡  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,typescript,nodejs,express,mongodb,python,flask,java,c,git,github,vscode,figma" />
-</div>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
----
-
-## 📊 GitHub Stats & Streak  
+<!-- Matrix Effect Background Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=speedcuberayush&show_icons=true&theme=radical&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=speedcuberayush&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=speedcuberayush&theme=matrix&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 🌌 Contribution Galaxy  
+## 🎆 Contribution Fireworks  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=speedcuberayush&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github.com/speedcuberayush/speedcuberayush/blob/main/fireworks.gif" alt="fireworks animation"/>
 </p>
 
 ---
 
-## 🐍 Snake Eating Contributions  
+## 🏆 Achievements Wall  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/speedcuberayush/speedcuberayush/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <img src="https://github-profile-trophy.vercel.app/?username=speedcuberayush&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 🏆 Achievements & Badges  
+## 🌐 Let’s Connect  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=speedcuberayush&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
+  <a href="mailto:msdakm3334@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=FF0000&cacheSeconds=3600&animate=flash"></a>
+  <a href="https://linkedin.com/in/speedcuberayush"><img src="https://img.shields.io/badge/LinkedIn-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=00A8E8&cacheSeconds=3600&animate=pulse"></a>
+  <a href="https://speedcuberayush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white&labelColor=000000&color=FF6F61&animate=glow"></a>
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="mailto:msdakm3334@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/speedcuberayush"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://speedcuberayush.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Footer with cool wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00F5FF&height=120&section=footer"/>
+<!-- Futuristic Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00f5ff&height=120&section=footer&animation=twinkling"/>
