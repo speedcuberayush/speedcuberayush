@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0096FF&center=true&vCenter=true&width=600&lines=Hey+everyone+👋;I'm+speedCuber Ayush!;React+GOD+⚛️;Full+Stack+Explorer+🌍;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0096FF&center=true&vCenter=true&width=600&lines=Hey+everyone+👋;I'm+speedCuber+Ayush!;React+GOD+⚛️;Full+Stack+Explorer+🌍;Always+Learning+🚀" alt="Typing SVG" />
 </h1>
 
 <!-- Cool Tagline -->
