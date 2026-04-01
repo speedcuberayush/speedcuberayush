@@ -1,86 +1,93 @@
-# 👋 Hi, I'm Ayush
+<!-- 🔥 Animated Header -->
 
-### ⚙️ Automation Engineer | Python Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ayush+👋;Automation+Engineer+⚙️;Python+Developer+🐍;I+build+tools+that+save+time+🚀" />
+</p>
 
-Building tools that **save time, reduce manual work, and solve real-world problems**
+---
+
+<h3 align="center">
+⚙️ Turning repetitive work into automation | Building real-world tools
+</h3>
 
 ---
 
 ## 🧠 About Me
 
-* 🔧 Focused on **Automation, Systems, and Backend Engineering**
-* 🐍 Strong in **Python scripting, APIs, and real-world problem solving**
-* 🧩 I don’t just write code — I build **usable tools**
-* 📈 Currently working towards **production-level engineering skills**
-* 🎯 Goal: Become someone who can **design and automate complete systems**
+* 🔧 Focused on **Automation, Systems & Backend Development**
+* 🐍 Strong in **Python, APIs, and scripting**
+* 🧩 I build **tools that actually solve problems**
+* 📈 Growing towards **production-level engineering**
+* 🎯 Goal: Design systems that **scale & automate workflows**
 
 ---
 
-## 🚀 What I Build
+## 🚀 Featured Work
 
-### ⚡ Real-World Projects
+### 🔥 Flagship Projects
 
-* 🤖 **AI Interview Simulator** → Resume-based question generator with levels
-* 🛠️ **Automation Suite** → Scripts & tools to eliminate repetitive work
-* 📊 **System Monitor** → Tracks CPU, memory, logs, and alerts
-* 💼 **Freelancer Toolkit** → Automates proposals, emails, and workflows
-
-👉 I focus on:
-
-* Clean architecture
-* CLI tools & backend systems
-* Practical use cases (not just demos)
-
----
-
-## 📦 Core Repositories
-
-* 🔧 **automation-lab** → Collection of powerful Python automation tools
-* 🧠 **engineering-notes** → Deep dives into Python, OS, and system concepts
-* 📊 **dsa-patterns** → Structured problem-solving approaches (not random questions)
+* 🤖 **AI Interview Simulator** → Resume-based question engine
+* ⚙️ **Automation Suite** → Eliminates repetitive workflows
+* 📊 **System Monitor** → Tracks CPU, logs & alerts
+* 💼 **Freelancer Toolkit** → Automates client workflow
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:**
-Python • C++ • JavaScript
-
-**Core Skills:**
-Automation • API Development • System Design Basics • Scripting
-
-**Tools & Tech:**
-Git • Linux • REST APIs • CLI Development
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=speedcuberayush&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=speedcuberayush&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,linux,git,github,vscode" />
 </p>
 
 ---
 
-## 🧭 Engineering Philosophy
+## 📦 Core Repositories
 
-> “Code should not just work — it should solve a real problem efficiently.”
-
-* Prefer **automation over repetition**
-* Prefer **clarity over complexity**
-* Prefer **depth over quantity**
+* 🔧 **automation-lab** → Smart automation scripts & tools
+* 🧠 **engineering-notes** → Deep technical breakdowns
+* 📊 **dsa-patterns** → Structured problem solving
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Activity
 
-* 📧 Email: [msdakm3334@gmail.com](mailto:msdakm3334@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/speedcuberayush
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=speedcuberayush&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=speedcuberayush&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=speedcuberayush&theme=react-dark&hide_border=true"/>
+</p>
 
 ---
 
-## ⚡ Final Note
+## 🧭 Engineering Mindset
 
-I’m not here to push random code.
-I’m here to build tools that are **useful, scalable, and impactful**.
+```bash
+> automate repetitive tasks
+> build practical tools
+> write clean & scalable code
+> focus on real-world impact
+```
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="mailto:msdakm3334@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/speedcuberayush">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Final
+
+<p align="center">
+  <b>“Good engineers write code. Great engineers automate problems away.”</b>
+</p>
