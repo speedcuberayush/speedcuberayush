@@ -1,7 +1,7 @@
 <!-- 🔥 Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Ayush+👋;Automation+Engineer+⚙️;Python+Developer+🐍;I+build+tools+that+save+time+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Speedcuber+Ayush+👋;Automation+Engineer+⚙️;Python+Developer+🐍;I+build+tools+that+save+time+🚀" />
 </p>
 
 ---
