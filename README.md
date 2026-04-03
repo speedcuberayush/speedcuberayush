@@ -69,6 +69,7 @@
 > build practical tools
 > write clean & scalable code
 > focus on real-world impact
+> Create systems
 ```
 
 ---
