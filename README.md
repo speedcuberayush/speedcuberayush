@@ -1,6 +1,6 @@
 <!-- 🚀 Animated Header -->
 <p align="center">
-  <img src="https://lottiefiles.com/free-animation/to-readme-github-4yEVrkdZtS" width="400"/>
+  <img src="[https://lottiefiles.com/free-animation/to-readme-github-4yEVrkdZtS](https://lottie.host/28b3f79a-6590-426e-862a-ca9093f4c5c0/5a1cTycIIa.lottie)" width="400"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
