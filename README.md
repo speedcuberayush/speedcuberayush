@@ -1,35 +1,100 @@
-<!-- 🔥 Animated Header -->
+<!-- 🔥 HERO SECTION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Speedcuber+Ayush+👋;Automation+Engineer+⚙️;Python+Developer+🐍;I+build+tools+that+save+time+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Ayush+Kumar+%F0%9F%91%8B;Automation+%7C+Systems+Engineer;I+build+tools+that+eliminate+manual+work;From+scripts+to+scalable+systems+%F0%9F%9A%80" />
 </p>
 
----
+<p align="center">
+  <b>Designing systems that automate workflows, reduce effort, and scale efficiently.</b>
+</p>
 
-<h3 align="center">
-⚙️ Turning repetitive work into automation | Building real-world tools
-</h3>
+<br/>
 
 ---
 
 ## 🧠 About Me
 
-* 🔧 Focused on **Automation, Systems & Backend Development**
-* 🐍 Strong in **Python, APIs, and scripting**
-* 🧩 I build **tools that actually solve problems**
-* 📈 Growing towards **production-level engineering**
-* 🎯 Goal: Design systems that **scale & automate workflows**
+* ⚙️ Engineer focused on **Automation, Systems & Backend Development**
+* 🐍 Strong in **Python, APIs, and performance-oriented scripting**
+* 🧩 I build tools that **replace repetitive human effort**
+* 📈 Moving towards **production-grade, scalable system design**
+* 🎯 Goal: Build systems that **think, adapt, and automate**
 
 ---
 
-## 🚀 Featured Work
+## 🚀 What I Build
 
-### 🔥 Flagship Projects
+I don’t just write code — I build **practical systems**:
 
-* 🤖 **AI Interview Simulator** → Resume-based question engine
-* ⚙️ **Automation Suite** → Eliminates repetitive workflows
-* 📊 **System Monitor** → Tracks CPU, logs & alerts
-* 💼 **Freelancer Toolkit** → Automates client workflow
+* 🔁 Automation pipelines that eliminate manual workflows
+* ⚙️ Backend systems designed for efficiency & reliability
+* 📊 Monitoring & logging tools for real-time insights
+* 🧠 Intelligent tools that simulate real-world scenarios
+
+---
+
+## 💣 Flagship Projects
+
+### 🤖 AI Interview Simulator
+
+> Resume-driven question engine that simulates real interview scenarios
+
+* Dynamic question generation
+* Domain-aware logic
+* Real-time evaluation
+
+---
+
+### ⚙️ Automation Suite
+
+> Eliminates repetitive workflows using smart scripting
+
+* File + process automation
+* API integrations
+* Time-saving pipelines
+
+---
+
+### 📊 System Monitor
+
+> Real-time system tracking & alerting
+
+* CPU / memory monitoring
+* Logging + alerts
+* Lightweight & efficient
+
+---
+
+### 💼 Freelancer Toolkit
+
+> End-to-end automation for client workflows
+
+* Task tracking
+* Automation scripts
+* Workflow optimization
+
+---
+
+## 🧪 Engineering Depth
+
+```bash
+> design systems, not scripts
+> optimize for performance, not just correctness
+> automate before scaling humans
+> handle edge cases early
+> build with real-world constraints
+```
+
+---
+
+## 🧱 Architecture & Thinking
+
+I focus on:
+
+* ⚙️ **Efficiency** → minimizing resource usage
+* 🔄 **Scalability** → systems that grow with load
+* 🧠 **Abstraction** → clean, modular design
+* 🛠️ **Reliability** → handling failures gracefully
 
 ---
 
@@ -43,13 +108,13 @@
 
 ## 📦 Core Repositories
 
-* 🔧 **automation-lab** → Smart automation scripts & tools
-* 🧠 **engineering-notes** → Deep technical breakdowns
-* 📊 **dsa-patterns** → Structured problem solving
+* 🔧 **automation-lab** → real-world automation tools
+* 🧠 **engineering-notes** → deep technical breakdowns
+* 📊 **dsa-patterns** → structured problem solving
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Activity & Consistency
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=speedcuberayush&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -62,15 +127,11 @@
 
 ---
 
-## 🧭 Engineering Mindset
+## 🧪 Currently Building
 
-```bash
-> automate repetitive tasks
-> build practical tools
-> write clean & scalable code
-> focus on real-world impact
-> Create systems
-```
+* ⚡ High-performance workload replay engine
+* 🧠 Automation tools with intelligent decision logic
+* 📊 Systems focused on monitoring & optimization
 
 ---
 
@@ -87,8 +148,8 @@
 
 ---
 
-## ⚡ Final
+## ⚡ Philosophy
 
 <p align="center">
-  <b>“Good engineers write code. Great engineers automate problems away.”</b>
+  <b>“Great engineers don’t just solve problems — they eliminate them.”</b>
 </p>
