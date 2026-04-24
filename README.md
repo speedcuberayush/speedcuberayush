@@ -1,47 +1,64 @@
-<!-- 🚀 Animated Header -->
-<p align="center">
-  <img src="[https://lottiefiles.com/free-animation/to-readme-github-4yEVrkdZtS](https://lottie.host/28b3f79a-6590-426e-862a-ca9093f4c5c0/5a1cTycIIa.lottie)" width="400"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+# Hi, I am Ayush Kumar Mishra 👋
 
 <p align="center">
-  <b>From thought → tool → impact</b><br>
-  They call me <b>The Galaxy Guy 🌌</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=SpeedCuber+Ayush;Systems+Engineer+%7C+Performance+Focused;I+build+scalable+real-world+systems;From+thought+→+tool+→+impact" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🚀 I build systems, not just code  
-- ⚡ I love turning ideas into execution  
-- 🧩 Problem solver with deep curiosity  
-- 🎯 Focused on impact, not just output  
-
----
-
-## ⚙️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,js" />
+  <i>Engineering systems that don't just work — they scale, adapt, and perform.</i>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 ABOUT
+
+- Built systems handling **1B+ events**
+- Reduced validation cycles from **weeks → hours**
+- Designed infrastructure for **1000+ device scale testing**
+- Focused on **performance, system design & real-world impact**
+
+---
+
+## ⚙️ TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,postgres,spring,django,flask,nodejs,express,react,nextjs,redux,html,css,mongodb,firebase,aws,docker,linux,git,github" />
 </p>
 
 ---
 
-## 🌌 What I Believe
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/speedcuberayush/animation-gif/main/kling_20260424_%E4%BD%9C%E5%93%81_The_first__860_0.gif"
+    width="450"
+  />
+</p>
 
-```txt
-Code is just a tool.
-Thinking is the real power.
-Execution is everything.
+---
+
+## 📊 GITHUB
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=speedcuberayush&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=speedcuberayush&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🧩 CODING
+
+- 🧠 LeetCode: World Rank ~176  
+- ⚡ Codeforces: Candidate Master  
+- 🏆 GFG: Top Contributor  
+
+---
+
+## 🌐 CONNECT
+
+<p align="center">
+  <a href="https://linkedin.com/in/speedcuberayush">LinkedIn</a> •
+  <a href="mailto:ayush.k.mishra@outlook.com">Email</a> •
+  <a href="https://github.com/speedcuberayush">GitHub</a>
+</p>
