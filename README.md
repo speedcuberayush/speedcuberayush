@@ -58,7 +58,13 @@
 ## 🌐 CONNECT
 
 <p align="center">
-  <a href="https://linkedin.com/in/speedcuberayush">LinkedIn</a> •
-  <a href="mailto:ayush.k.mishra@outlook.com">Email</a> •
-  <a href="https://github.com/speedcuberayush">GitHub</a>
+  <a href="https://linkedin.com/in/speedcuberayush">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/>
+  </a>
+  <a href="mailto:ayush.k.mishra@outlook.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="25"/>
+  </a>
+  <a href="https://github.com/speedcuberayush">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/>
+  </a>
 </p>
